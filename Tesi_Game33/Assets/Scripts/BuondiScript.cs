@@ -2,17 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Andrea: MonoBehaviour
+public class BuondiScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    private int emaZioneCounter;
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (true)
+        {
+            emaZioneCounter++;
+        }
     }
 }
