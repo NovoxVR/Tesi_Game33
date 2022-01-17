@@ -7,7 +7,7 @@ public class EmanueleMessina : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        print("Matteo Meneghello");
     }
 
     // Update is called once per frame
