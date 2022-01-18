@@ -8,6 +8,7 @@ public class EmanueleMessina : MonoBehaviour
     void Start()
     {
         print("Borenzo Lonu");
+        print("EmanueleMessina");
     }
 
     // Update is called once per frame
