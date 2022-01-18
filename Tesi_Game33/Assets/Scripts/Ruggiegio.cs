@@ -2,12 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EmanueleMessina : MonoBehaviour
+public class Ruggiegio : MonoBehaviour
 {
+    //Sperimentazione
+    
     // Start is called before the first frame update
     void Start()
     {
-        print("EmanueleMessina");
+        
     }
 
     // Update is called once per frame
